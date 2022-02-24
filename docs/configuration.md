@@ -24,7 +24,7 @@ You will be greeted with a pop up. Select 'Yes, I trust the authors'.
 You should be able to see the path of your current directory in the terminal.
 
 
-💭 **NOTE** : The terminal can be reopened when you hit **[CTRL]** and **[~]** simultaneously
+💭 **NOTE** : The terminal can also be opened by you pressing **[CTRL]** and **[~]** simultaneously. Using 'Open in Integrated Terminal' will automatically set the terminal path to the project directory.
 
 ### Step 5: Type `npm init` in the terminal and hit **[Enter]** to run the command
 You will see some prompts appear in the terminal. Hit **[Enter]** for each prompt. Once you see the prompt *`Is this OK? (yes)`*, hit **[Enter]** once more. You should see a new file listed in your project directory in the Workspace column called *package.json*.
