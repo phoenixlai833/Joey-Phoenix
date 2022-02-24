@@ -8,7 +8,7 @@ This step will walk you through the process of installing the express.js library
 
 ## Step 1: Open the Visual Studio Code software
 
-## Step 2: Create a designated folder for your project
+## Step 2: Create a designated folder to store your project files
 
 ## Step 3 (macOS): Drag your folder into the Workspace column on the left of the VS Code interface
 You will be greeted with a pop up. Select Yes, I trust the authors.
@@ -20,7 +20,7 @@ You will be greeted with a pop up. Select Yes, I trust the authors.
 You should be able to see the path of your current directory in the REPL.
 
 ## Step 5: Type npm init in the REPL and hit enter to run the command
-You will see some prompts appear in the REPL. Hit enter for each prompt. Once you see the prompt 'Is this OK? (yes)', hit enter once more and continue onto Step 6.
+You will see some prompts appear in the REPL. Hit enter for each prompt. Once you see the prompt 'Is this OK? (yes)', hit enter once more. You should see a new file listed in your project directory in the Workspace column called package.json.
 
 ## Step 6: Type npm install express in the REPL and hit enter to run the command
 You can watch the installation process in the REPL. The installation has succeeded when you see the prompt 'found 0 vulnerabilities'. You may see some WARNING prompts. Do not worry about these.
