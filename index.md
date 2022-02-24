@@ -41,8 +41,8 @@ This document requires the following knowledge:
 By the end of this guide, you will understand: 
 - How to install Express.js
 - How the file structure is organized
-- Display messages to the browser
-- Basic routing methods
+- How to display messages to the browser
+- How to do basic routing methods
 - How to use middleware to display static files
 
 ---
@@ -53,24 +53,19 @@ This document adheres to the following typographic conventions:
 
 | Convention   | Typeface          | Examples |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Terminal commands        | `Light code` | `npm init`, `npm install`  |
+| Keystrokes               | **[Bold Brackets]**   | **[CTRL]**, **[~]**  |
+| Console Output           | *`Light Italic Code`*      | *`internal/modules/ejs`*   |
+| Key terms and files                | *Italic* | *routing, port*  |
+| Navigation                | 'Light' | 'Open folder'  |
 
 </div>
 
-Danger
-{: .label .label-red }
+💭 **NOTE**: This is a note icon that suggests to pay attention to the following information. 
 
-Warning
-{: .label .label-yellow }
+❗ **CAUTION**: This is a caution icon that suggests to be careful proceeding with the folowing steps.  
 
-Success
-{: .label .label-green }
-
-Tips
-{: .label .label-blue }
+🚨 **DANGER**: This is a danger icon that suggests actions that will cause the software to crash. 
 
 ---
 
