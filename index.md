@@ -75,5 +75,7 @@ Tips
 ---
 
 ### Conclusion
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+Express.js is a straightforward Node.js framework that can help developers code more efficiently, and is a cost effective option for businesses. Its ease of use makes it adoptable for beginners, and the various middlewares available allows for flexibility to project needs. 
+
+That being said, let's get started with Express! 
+
