@@ -16,7 +16,7 @@ You will be greeted with a pop up. Select Yes, I trust the authors.
 ## Step 3 (Windows): Go under the File tab on the navigation bar and select 'Open folder'. Select your designated folder.
 You will be greeted with a pop up. Select Yes, I trust the authors.
 
-![Workspace popup message](./assets/images/step-3.png)
+![Workspace popup message](../assets/images/step-3.png)
 
 ## Step 4: Right click your project folder listed in the Workspace column and select 'Open in Integrated Terminal'
 You should be able to see the path of your current directory in the REPL.
