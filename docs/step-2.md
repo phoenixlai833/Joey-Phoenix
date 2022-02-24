@@ -26,6 +26,10 @@ Now that you have successfully installed Express.js and EJS, let's set up your p
 ❗ CAUTION: For the purpose of this project, this file that you are creating in this step MUST be named index.ejs. Node.js will by default look for a file with this specific name.
 
 ## Step 4: Add boilerplate html code in the *index.ejs* file by typing `!` in the editor and then hitting **[Enter]**.
+Once you've hit enter, VS Code will automatically generate starting HTML code.
+
+
+💭 NOTE: This shortcut works on html files too!
 
 ## Step 5: Locate the `<body>` tag in the boilerplate and then add any basic html between the `<body>` and `</body>` tag.
 In this case, we added a heading that reads Hi World.
