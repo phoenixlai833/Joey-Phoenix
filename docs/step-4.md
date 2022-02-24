@@ -11,7 +11,7 @@ Routes in Express are defined using *methods* of the Express app object which co
 
 >`app.METHOD(PATH, HANDLER)`
 > - `app`: is an instance of Express
-> - `METHOD`: is the Express route method(eg.`get`, `post`)
+> - `METHOD`: is the Express route method(eg. `get`, `post`)
 > - `PATH`: is a path on the server
 > - `HANDLER`: is the callback function that executes when the METHOD and PATH matches the client HTTP request
 
