@@ -34,17 +34,23 @@ app.listen(port, () => {
 Just like in Task 1 when you installed *Express.js* and *EJS*, wait until the installation has completed. 
 If the installation was successful, the prompt `*found 0 vulnerabilities*` will be printed on the terminal.
 
+
 💭 NOTE: You can confirm the installation of *nodemon* in the *package.json* file. `nodemon` should be listed under
 a heading called `devDependencies`.
 
 ### Step 3: Open the *package.json* file. Under `scripts`, change the `dev` value to `nodemon server.js` 
 ❗ WARNING: Do not change anything else in the *package.json* file.
+
+
 💭 NOTE: Remember to save the file after making changes.
 
 ### Step 4: Run the command `npm run dev` in the terminal to start the server
 💭 NOTE: Once you have run the command `npm run dev`, the server will automatically refresh with each save, which means
 that you do not need to run the command while the server is active. To end the server session, press **[CTRL]** and **[C]** simultaneously
 while in the terminal.
+
+
+Test that *nodemon* works by saving the file. You should see messages in the terminal of the server restarting.
 
 ### Step 5: Reload the localhost:3000 page on your browser to check your changes
 You should be able to see the new HTML text you entered in the *index.ejs* file from Task 2.
