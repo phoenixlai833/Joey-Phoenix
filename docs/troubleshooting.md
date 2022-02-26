@@ -4,6 +4,7 @@ title: Troubleshooting
 nav_order: 8
 ---
 
+# Troubleshooting
 
 <div class="code-example" markdown="1">
 
