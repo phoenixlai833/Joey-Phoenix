@@ -81,26 +81,17 @@ app.get('/user', (req, res) => {
 ```
 
 **7.**  Save and refresh the browser to see changes. There should now be a link on the homepage that when clicked, directs to the user page. The homepage should look like this:
+
 ![homepage with user link](../assets/images/homepage_user.png)
 
 This /user page should look like this:
+
 ![user page](../assets/images/user_page.png)
 
 
 Congratulations! You successfully created a route. Continue to the next step to learn how to use [Middleware for Static Files](step-5.md).
 
 💭 **NOTE**: If you would like to explore more routes options, please see the complete routing guide provided in the [Express Router Documentation](https://expressjs.com/en/guide/routing.html).
-
-
- 
-
-
-
-
-
-
-
-
 
 
 
