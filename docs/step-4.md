@@ -31,9 +31,10 @@ npm install ejs
 ```
 
 **3.**  Save the files and refresh the browser. The index.ejs file contents should show up and look like this. Yay!
+
 ![index working](../assets/images/index1.png)
 
-💭 NOTE: Please remember to save in VScode before refreshing the browser. If the page is still not loading, see the [troubleshooting](troubleshooting.md) for possible solutions.
+💭 **NOTE**: Please remember to save in VScode before refreshing the browser. If the page is still not loading, see the [troubleshooting](troubleshooting.md) for possible solutions.
 
 **4.**  Make a new file in 'views' folder called *user.ejs*. Add the boilerplate HTML code and a heading 1 with “this is the user page” for the text. Alternatively, copy and paste this code:
 ```
@@ -88,7 +89,7 @@ This /user page should look like this:
 
 Congratulations! You successfully created a route. Continue to the next step to learn how to use [Middleware for Static Files](step-5.md).
 
-💭 **NOTE**: If you would like to explore more routes options, please see the complete routing guide provided in the [Express Router Documentation](https://expressjs.com/en/guide/routing.html)
+💭 **NOTE**: If you would like to explore more routes options, please see the complete routing guide provided in the [Express Router Documentation](https://expressjs.com/en/guide/routing.html).
 
 
  
