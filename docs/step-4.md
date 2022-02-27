@@ -26,14 +26,71 @@ Routes in Express are defined using *methods* of the Express app object which co
 
 **2.**  In order to use ejs files, install the **Embedded Javascript Templates(ejs)** module with the command:
 
-`npm install ejs`
+```
+npm install ejs
+```
 
 **3.**  Save the files and refresh the browser. The index.ejs file contents should show up and look like this. Yay!
 ![index working](../assets/images/index1.png)
 
 💭 NOTE: Please remember to save in VScode before refreshing the browser. If the page is still not loading, see the [troubleshooting](troubleshooting.md) for possible solutions.
 
-**4.**  Make a new file in views called user.ejs. Add the boilerplate HTML code and a heading 1 with “this is the user page” ad the text. Alternatively, copy and paste this code:
+**4.**  Make a new file in 'views' folder called *user.ejs*. Add the boilerplate HTML code and a heading 1 with “this is the user page” for the text. Alternatively, copy and paste this code:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <h1>This is the user page</h1>
+</body>
+</html>
+```
+
+The file and folder structure should now look like this:
+
+![user folder structure](../assets/images/user_file.png)
+
+**5.**  Next we have to connect the user page to the homepage. Add the link `<a href="/user">Go to User</a>` in the index.ejs file under the “hi world” heading. Alternatively, replace the code in *index.ejs* with the following:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <h1>Hi world!</h1>
+   <a href="/user">Go to user</a>
+</body>
+</html>
+```
+
+**6.**  Now we have to connect "Go to user" to an Express method that handles the request when the link is clicked. In *app.js*, copy and paste this new route that renders the user.ejs page at the /user url:
+```
+app.get('/user', (req, res) => {
+   res.render('user')
+})
+```
+
+**7.**  Save and refresh the browser to see changes. There should now be a link on the homepage that when clicked, directs to the user page. The homepage should look like this:
+![homepage with user link](../assets/images/homepage_user.png)
+
+This /user page should look like this:
+![user page](../assets/images/user_page.png)
+
+
+Congratulations! You successfully created a route. Continue to the next step to learn how to use [Middleware for Static Files](step-5.md).
+
+💭 **NOTE**: If you would like to explore more routes options, please see the complete routing guide provided in the [Express Router Documentation](https://expressjs.com/en/guide/routing.html)
+
+
  
 
 
