@@ -57,7 +57,7 @@ This document adheres to the following typographic conventions:
 | Keystrokes               | **[Bold Brackets]**   | **[CTRL]**, **[~]**  |
 | Console Output           | *`Light Italic Code`*      | *`internal/modules/ejs`*   |
 | Key terms and files                | *Italic* | *routing, port*  |
-| Navigation                | 'Light' | 'Open folder'  |
+| Navigation                | 'Light' | 'folder name'  |
 
 </div>
 
