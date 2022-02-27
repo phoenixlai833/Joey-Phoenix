@@ -53,7 +53,7 @@ This document adheres to the following typographic conventions:
 
 | Convention   | Typeface          | Examples |
 |:-------------|:------------------|:------|
-| Terminal commands        | `Light code` | `npm init`, `npm install`  |
+| Terminal commands and code       | `Light code` | `npm init`, `npm install`  |
 | Keystrokes               | **[Bold Brackets]**   | **[CTRL]**, **[~]**  |
 | Console Output           | *`Light Italic Code`*      | *`internal/modules/ejs`*   |
 | Key terms and files                | *Italic* | *routing, port*  |
