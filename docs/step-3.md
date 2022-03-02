@@ -35,11 +35,17 @@ Just like in Task 1 when you installed *Express.js* and *EJS*, wait until the in
 If the installation was successful, the prompt `*found 0 vulnerabilities*` will be printed on the terminal.
 
 
+![Screenshot of nodemon installation in the terminal](../assets/images/task-3-nodemon-install.png)
+
+
 💭 NOTE: You can confirm the installation of *nodemon* in the *package.json* file. `nodemon` should be listed under
 a heading called `devDependencies`.
 
-### Step 3: Open the *package.json* file. Under `scripts`, change the `dev` value to `nodemon server.js` 
+### Step 3: Open the *package.json* file. Under `scripts`, add a comma after `"test": "echo \"Error: no test specified\" && exit 1"` then add `"dev": "nodemon server.js"` under it
 ❗ WARNING: Do not change anything else in the *package.json* file.
+
+
+![Screenshot of package.json with nodemon listed](../assets/images/task-3-nodemon-package-json.png)
 
 
 💭 NOTE: Remember to save the file after making changes.
@@ -50,10 +56,18 @@ that you do not need to run the command while the server is active. To end the s
 while in the terminal.
 
 
+
+![Screenshot of nodemon working in terminal](../assets/images/task-3-nodemon-package-json.png)
+
+
 Test that *nodemon* works by saving the file. You should see messages in the terminal of the server restarting.
 
 ### Step 5: Reload the localhost:3000 page on your browser to check your changes
-You should be able to see the new HTML text you entered in the *index.ejs* file from Task 2.
+You should be able to see Hello World.
+
+
+![Screenshot of Hello World in browser](../assets/images/task-3-hello-world.png)
+
 
 #### You have completed Task 3! 🥳
 
