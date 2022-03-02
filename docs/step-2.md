@@ -11,6 +11,9 @@ Now that you have successfully installed Express.js and EJS, let's set up your p
 💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
 
 
+![Workspace popup message](../assets/images/task-2-index.png)
+
+
 ❗ CAUTION: For the purpose of this project, this file that you are creating in this step MUST be named index.js. Node.js will by default look for a file with this specific name.
 
 ## Step 2: Create a new folder named *views* in your project folder by clicking on your project folder then clicking the folder icon in the 'Workbench' column
@@ -25,14 +28,23 @@ Now that you have successfully installed Express.js and EJS, let's set up your p
 
 ❗ CAUTION: For the purpose of this project, this file that you are creating in this step MUST be named index.ejs. Node.js will by default look for a file with this specific name.
 
+
 ## Step 4: Add boilerplate html code in the *index.ejs* file by typing `!` in the editor and then hitting **[Enter]**.
 Once you've hit enter, VS Code will automatically generate starting HTML code.
 
 
-💭 NOTE: This shortcut works on html files too!
+![Workspace popup message](../assets/images/task-2-boilerplate.png)
+
+
+💭 NOTE: Remember to save your file after making changes by hitting **[CTRL]** and **[S]** simulatenously.
+
 
 ## Step 5: Locate the `<body>` tag in the boilerplate and then add any basic html between the `<body>` and `</body>` tag.
 In this case, we added a heading that reads Hi World.
+
+
+![Workspace popup message](../assets/images/task-2-hi-world.png)
+
 
 ## Step 6: Create a new folder named *public* in your project folder by clicking on your project folder then clicking the folder icon in the 'Workbench' column
 💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
@@ -45,5 +57,9 @@ In this case, we added a heading that reads Hi World.
 
 ### Here is a screenshot of all the folders and files that should now exist in your project directory. 
 ❗ CAUTION: Make sure that all of the folders and files have been made and are correctly located before moving on. Errors in this task will block any further progress.
+
+
+![Workspace popup message](../assets/images/task-2-total.png)
+
 
 ### Yay! You may now move onto Task 3. 😃
