@@ -20,25 +20,40 @@ You will be greeted with a pop up. Select 'Yes, I trust the authors'.
 
 ![Workspace popup message](../assets/images/step-3.png)
 
-### Step 4: Right click your project folder listed in the Workspace column and select 'Open in Integrated Terminal'
-You should be able to see the path of your current directory in the terminal.
+### Step 4: Hit **[CTRL]** and **[~]** simultaneously on your keyboard to open the terminal.
+The terminal should open up at the bottom of the application.
 
 
-💭 **NOTE** : The terminal can also be opened by you pressing **[CTRL]** and **[~]** simultaneously. Using 'Open in Integrated Terminal' will automatically set the terminal path to the project directory.
+![Screenshot of terminal](../assets/images/task-1-terminal.png)
+
+
+💭 **NOTE** : Make sure that the directory in the terminal matches the directory of your project folder.
 
 ### Step 5: Type `npm init` in the terminal and hit **[Enter]** to run the command
 You will see some prompts appear in the terminal. Hit **[Enter]** for each prompt. Once you see the prompt *`Is this OK? (yes)`*, hit **[Enter]** once more. You should see a new file listed in your project directory in the Workspace column called *package.json*.
 
+
+![Screenshot of workspace after initialization](../assets/images/task-1-init.png)
+
 ### Step 6: Type `npm install express` in the terminal and hit **[Enter]** to run the command
 You can watch the installation process in the terminal. The installation has succeeded when you see the prompt *`found 0 vulnerabilities`*. You may see some WARNING prompts. Do not worry about these.
 
+
+![Screenshot of workspace after install express](../assets/images/task-1-install-express.png)
+
 ### Step 7: Type `npm install ejs express` in the terminal and hit **[Enter]** to run the command
 You can watch the installation process in the terminal. The installation has succeeded when you see the prompt *`found 0 vulnerabilities`*. You may see some WARNING prompts. Do not worry about these.
+
+
+![Screenshot of ejs command](../assets/images/task-1-install-ejs.png)
 
 ### Step 8: Confirm that the installations have succeeded by checking the *package.json* file
 `express.js` and `ejs` should now be listed under `dependencies`.
 
 
-❗ **CAUTION** : Do not delete the package.json file!
+![Screenshot of package.json file](../assets/images/task-1-package-json.png)
+
+
+❗ **CAUTION** : Do not delete or alter the package.json file!
 
 #### Congratulations! You have completed Step 1. 🚀
