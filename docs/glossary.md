@@ -110,7 +110,10 @@ nav_order: 7
 | Term | Definition |
 | ----------- | ----------- |
 | Terminal | Section of the VS Code interface that allows the user to run terminal commands |
+
+
 <hr>
+
 
 ### 📚 More Readings
 - EJS: https://ejs.co/
