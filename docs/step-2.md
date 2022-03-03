@@ -123,9 +123,9 @@ project/
     |-- style.css
 ```
 
-## Conclusion
+### Conclusion
 
-##### Here is a screenshot of all the folders and files that should now exist in your project directory. 
+##### These are all the folders and files that should now exist in your project directory: 
 
 
 ![Workspace popup message](../assets/images/task-2-total.png)
