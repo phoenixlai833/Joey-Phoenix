@@ -29,25 +29,52 @@ In order to create files and folders using VSCode, hover your cursor over the pr
 
 
 ## Step 1: Create a new file named *index.js* in your project folder
-💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
+💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
 
-![Workspace popup message](../assets/images/task-2-index.png)
+```
+project/
+  |-- node_modules/
+  |-- package.json
+  |-- package-lock.json
+  |-- index.js
+```
 
 
 ❗ CAUTION: For the purpose of this project, this file that you are creating in this step MUST be named index.js. Node.js will by default look for a file with this specific name.
 
 
 ## Step 2: Create a new folder named *views* in your project folder
-💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
+💭 NOTE: Make sure you the file is located in your project folder as shown below.
+
+
+```
+project/
+  |-- node_modules/
+  |-- package.json
+  |-- package-lock.json
+  |-- index.js
+  |-- views/
+```
+
 
 
 ❗ CAUTION: For the purpose of this project, this folder that you are creating in this step MUST be named views. Node.js will by default look for a folder with this specific name.
 
 
 ## Step 3: Create a new file named *index.ejs* in your *views* folder
-💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
+💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
+
+```
+project/
+  |-- node_modules/
+  |-- package.json
+  |-- package-lock.json
+  |-- index.js
+  |-- views/
+    |-- index.ejs
+```
 
 ❗ CAUTION: For the purpose of this project, this file that you are creating in this step MUST be named index.ejs. Node.js will by default look for a file with this specific name.
 
@@ -70,8 +97,19 @@ In this case, we added a heading that reads Hi World.
 
 
 ## Step 6: Create a new folder named *public* in your project folder
-💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
+💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
+
+```
+project/
+  |-- node_modules/
+  |-- package.json
+  |-- package-lock.json
+  |-- index.js
+  |-- views/
+    |-- index.ejs
+  |-- public/
+```
 
 ❗ CAUTION: For the purpose of this project, this folder that you are creating in this step MUST be named public. Node.js will by default look for a file with this specific name.
 
@@ -79,7 +117,17 @@ In this case, we added a heading that reads Hi World.
 ## Step 7: Create a file named *style.css* in the public folder
 💭 NOTE: The css file can have any name, but style.css is the standard convention.
 
-
+```
+project/
+  |-- node_modules/
+  |-- package.json
+  |-- package-lock.json
+  |-- index.js
+  |-- views/
+    |-- index.ejs
+  |-- public/
+    |-- style.css
+```
 ### Here is a screenshot of all the folders and files that should now exist in your project directory. 
 ❗ CAUTION: Make sure that all of the folders and files have been made and are correctly located before moving on. Errors in this task will block any further progress.
 
