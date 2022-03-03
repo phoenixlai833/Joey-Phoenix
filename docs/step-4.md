@@ -20,7 +20,7 @@ Routes in Express are defined using *methods* of the Express app object which co
 
 ### Routing GET Requests
 
-**1.**  In app.js, in the home route(“/”), change `res.send('Hello World!')` to `res.render(‘index’)`. The edited code should look like this:
+**1.**  In *app.js*, in the home route(“/”), change `res.send('Hello World!')` to `res.render(‘index’)`. The edited code should look like this:
 
 ![render index.ejs](../assets/images/render_index.png)
 
@@ -36,7 +36,7 @@ npm install ejs
 
 💭 **NOTE**: Please remember to save in VScode before refreshing the browser. If the page is still not loading, see the [troubleshooting](troubleshooting.md) for possible solutions.
 
-**4.**  Make a new file in 'views' folder called *user.ejs*. Add the boilerplate HTML code and a heading 1 with “this is the user page” for the text. Alternatively, copy and paste this code:
+**4.**  Make a new file in 'views' folder called *user.ejs*. Copy and paste this code into the file, this is **boilerplate** HTML code with a heading to identify it as the user page:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -56,22 +56,8 @@ The file and folder structure should now look like this:
 
 ![user folder structure](../assets/images/user_file.png)
 
-**5.**  Next we have to connect the user page to the homepage. Add the link `<a href="/user">Go to User</a>` in the index.ejs file under the “hi world” heading. Alternatively, replace the code in *index.ejs* with the following:
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Document</title>
-</head>
-<body>
-   <h1>Hi world!</h1>
-   <a href="/user">Go to user</a>
-</body>
-</html>
-```
+**5.**  Next we have to connect the user page to the homepage. Add the link `<a href="/user">Go to User</a>` in the *index.ejs* file under the “hi world” heading. The code should now look like this:
+![index css](../assets/images/index_css.png)
 
 **6.**  Now we have to connect "Go to user" to an Express method that handles the request when the link is clicked. In *app.js*, copy and paste this new route that renders the user.ejs page at the /user url:
 ```
