@@ -134,4 +134,4 @@ project/
 ❗ CAUTION: Make sure that all of the folders and files have been made and are correctly located before moving on. Errors in this task will block any further progress.
 
 
-### Yay! You may now move onto [Requiring Express.js](step-3.md). 😃
+### Yay! You may now move on to [Requiring Express.js](step-3.md). 😃
