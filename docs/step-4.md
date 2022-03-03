@@ -54,7 +54,7 @@ npm install ejs
 
 The file and folder structure should now look like this:
 
-![user folder structure](../assets/images/user_file.png)
+
 
 **5.**  Next we have to connect the user page to the homepage. Add the link `<a href="/user">Go to User</a>` in the *index.ejs* file under the “hi world” heading. The code should now look like this:
 ![index css](../assets/images/index_link.png)
