@@ -4,7 +4,7 @@ title: Task 1 | Installing Express.js
 nav_order: 2
 ---
 # Installing Express.js
-This step will walk you through the process of installing the express.js library for your project.
+This step will walk you through the process of starting a new Workspace and installing the Express.js library for your project.
 
 ### Step 1: Open the Visual Studio Code software
 
