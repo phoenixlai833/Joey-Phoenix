@@ -20,7 +20,7 @@ Routes in Express are defined using *methods* of the Express app object which co
 
 ### Routing GET Requests
 
-**1.**  In *app.js*, in the home route(“/”), change `res.send('Hello World!')` to `res.render(‘index’)`. The edited code should look like this:
+**1.**  In *index.js*, in the home route(“/”), change `res.send('Hello World!')` to `res.render(‘index’)`. The edited code should look like this:
 
 ![render index.ejs](../assets/images/render_index.png)
 
