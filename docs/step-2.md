@@ -25,7 +25,10 @@ The *views* directory will contain all the EJS files. EJS files are HTML files t
 We will also be making a *style.css* file which will live in a folder named *public*.
 
 
-## Step 1: Create a new file named *index.js* in your project folder by clicking on your project folder then clicking the file icon in the 'Workbench' column
+In order to create files and folders using VSCode, hover your cursor over the project directory and select the appropriate icon.
+
+
+## Step 1: Create a new file named *index.js* in your project folder
 💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
 
 
@@ -35,7 +38,7 @@ We will also be making a *style.css* file which will live in a folder named *pub
 ❗ CAUTION: For the purpose of this project, this file that you are creating in this step MUST be named index.js. Node.js will by default look for a file with this specific name.
 
 
-## Step 2: Create a new folder named *views* in your project folder by clicking on your project folder then clicking the folder icon in the 'Workbench' column
+## Step 2: Create a new folder named *views* in your project folder
 💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
 
 
@@ -45,7 +48,7 @@ We will also be making a *style.css* file which will live in a folder named *pub
 
 
 
-## Step 3: Create a new file named *index.ejs* in your *views* folder by clicking on your *views* folder then clicking the file icon in the 'Workbench' column
+## Step 3: Create a new file named *index.ejs* in your *views* folder
 💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
 
 
@@ -81,7 +84,7 @@ In this case, we added a heading that reads Hi World.
 
 
 
-## Step 6: Create a new folder named *public* in your project folder by clicking on your project folder then clicking the folder icon in the 'Workbench' column
+## Step 6: Create a new folder named *public* in your project folder
 💭 NOTE: Make sure you the file is located in your project folder as shown in the screenshot below.
 
 
@@ -91,7 +94,7 @@ In this case, we added a heading that reads Hi World.
 
 
 
-## Step 7: Create a file named *style.css* in the public folder by clicking on your *public* folder and then clicking the file icon in the Workbench column
+## Step 7: Create a file named *style.css* in the public folder
 💭 NOTE: The css file can have any name, but style.css is the standard convention.
 
 
