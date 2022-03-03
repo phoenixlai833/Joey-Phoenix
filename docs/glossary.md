@@ -116,11 +116,11 @@ nav_order: 7
 
 
 ### 📚 More Readings
-- EJS: https://ejs.co/
-- Express.JS: https://expressjs.com/
-- HTTP request methods: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
-- Methods in JavaScript: https://www.w3schools.com/js/js_object_methods.asp
-- Routing: https://expressjs.com/en/guide/routing.html
+- EJS: (https://ejs.co/)
+- Express.JS: (https://expressjs.com/)
+- HTTP request methods: (https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- Methods in JavaScript: (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions)
+- Routing: (https://expressjs.com/en/guide/routing.html)
 
 
 
