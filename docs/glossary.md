@@ -126,12 +126,12 @@ nav_order: 7
 
 
 ### 📚 More Readings
-- Dynamic versus Static websites: (https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/)
-- EJS: (https://ejs.co/)
-- Express.JS: (https://expressjs.com/)
-- HTTP request methods: (https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-- Methods in JavaScript: (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions)
-- Routing: (https://expressjs.com/en/guide/routing.html)
+- [Dynamic versus Static websites](https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/)
+- [EJS](https://ejs.co/)
+- [Express.JS](https://expressjs.com/)
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [Methods in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions)
+- [Routing](https://expressjs.com/en/guide/routing.html)
 
 
 
