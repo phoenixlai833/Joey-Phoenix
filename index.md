@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Introduction
-Hello!The purpose of this document is to guide you on how to set up a static Node.js web application using Express.js version 4.17.2 that works for both Mac and Windows machines. We will divide the fundamentals of how the software works into smaller building blocks that form the basic structure of complex projects.
+Hello! The purpose of this document is to guide you on how to set up a static Node.js web application using Express.js version 4.17.2 that works for both Mac and Windows machines. We will divide the fundamentals of how the software works into smaller building blocks that form the basic structure of complex projects.
 
 Express.js is one of the most popular Node.js back-end web application frameworks that was released as a free and open-source software. It provides many useful features to provide server-side logic for web and mobile applications in a simple and flexible way.
 
