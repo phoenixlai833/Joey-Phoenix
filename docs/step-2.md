@@ -128,11 +128,16 @@ project/
   |-- public/
     |-- style.css
 ```
-### Here is a screenshot of all the folders and files that should now exist in your project directory. 
-❗ CAUTION: Make sure that all of the folders and files have been made and are correctly located before moving on. Errors in this task will block any further progress.
+
+## Conclusion
+
+##### Here is a screenshot of all the folders and files that should now exist in your project directory. 
 
 
 ![Workspace popup message](../assets/images/task-2-total.png)
+
+
+❗ CAUTION: Make sure that all of the folders and files have been made and are correctly located before moving on. Errors in this task will block any further progress.
 
 
 ### Yay! You may now move onto Task 3. 😃
