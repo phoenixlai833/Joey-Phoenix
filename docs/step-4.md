@@ -75,6 +75,8 @@ This /user page should look like this:
 
 ![user page](../assets/images/user_page.png)
 
+### Conclusion
+(conclusion here)
 
 Congratulations! You successfully created a route. Continue to the next step to learn how to use [Middleware for Static Files](step-5.md).
 
