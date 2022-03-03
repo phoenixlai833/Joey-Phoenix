@@ -57,7 +57,7 @@ while in the terminal.
 
 
 
-![Screenshot of nodemon working in terminal](../assets/images/task-3-nodemon-package-json.png)
+![Screenshot of nodemon working in terminal](../assets/images/task-3-nodemon.png)
 
 
 Test that *nodemon* works by saving the file. You should see messages in the terminal of the server restarting.
