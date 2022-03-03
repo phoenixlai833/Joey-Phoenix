@@ -76,11 +76,10 @@ This /user page should look like this:
 ![user page](../assets/images/user_page.png)
 
 ### Conclusion
-(conclusion here)
+Congratulations! You successfully created a route to the user page. There are other routes such as `PUT` and `DELETE` that serve different functions not covered in this guide. If you would like to explore more routes options, please see the complete routing guide provided in the [Express Router Documentation](https://expressjs.com/en/guide/routing.html).
 
-Congratulations! You successfully created a route. Continue to the next step to learn how to use [Middleware for Static Files](step-5.md).
+Continue to the next step to learn how to use [Middleware for Static Files](step-5.md).
 
-💭 **NOTE**: If you would like to explore more routes options, please see the complete routing guide provided in the [Express Router Documentation](https://expressjs.com/en/guide/routing.html).
 
 
 
