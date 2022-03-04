@@ -60,6 +60,8 @@ You can watch the installation process in the terminal. The installation has suc
 
 ![Screenshot of package.json file](../assets/images/task-1-package-json.png)
 
+---
+
 ### Conclusion
 (conclusion here)
 
