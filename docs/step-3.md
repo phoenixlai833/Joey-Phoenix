@@ -72,8 +72,9 @@ Test that *nodemon* works by saving the file. You should see messages in the ter
 **5.** Reload the localhost:3000 page on your browser to check your changes
 You should be able to see Hello World.
 
-
 ![Screenshot of Hello World in browser](../assets/images/task-3-hello-world.png)
+
+---
 
 ### Conclusion
 (conclusion here)
