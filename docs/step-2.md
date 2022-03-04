@@ -123,6 +123,8 @@ project/
     |-- style.css
 ```
 
+---
+
 ### Conclusion
 
 ##### These are all the folders and files that should now exist in your project directory: 
