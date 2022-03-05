@@ -51,7 +51,7 @@ There are various types that have different uses but this document focuses on mi
 ---
 
 ### Conclusion
-And you're done!:rocket: You have completed all the sections of the guide and covered the basics of how to implement Express.js in a static Node.js application. We hope that this documentation has been helpful to speed up workflow and solidify the fundamentals for you to build larger projects. Happy developing!
+And you're done! You have completed all the sections of the guide and covered the basics of how to implement Express.js in a static Node.js application. We hope that this documentation has been helpful to speed up workflow and solidify the fundamentals for you to build larger projects. Happy developing!
 
 
 
