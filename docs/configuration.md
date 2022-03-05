@@ -27,12 +27,12 @@ After setting up your Workspace, we need to initialize our project directory whi
 **3.** Open the project folder in Mac or Windows.
 
 >**(macOS)** Drag your folder into the Workspace column on the left of the VS Code interface
-You will be greeted with a pop up. Select 'Yes, I trust the authors'.
+You will be greeted with a pop up. Select "Yes, I trust the authors".
 
 ![Workspace popup message](../assets/images/step-3.png)
 
->**(Windows)** Go under the 'File' tab on the navigation bar and select 'Open folder'. Select your designated folder.
-You will be greeted with a pop up. Select 'Yes, I trust the authors'.
+>**(Windows)** Go under the 'File' tab on the navigation bar and select "Open folder". Select your designated folder.
+You will be greeted with a pop up. Select "Yes, I trust the authors".
 
 ![Workspace popup message](../assets/images/step-3.png)
 
