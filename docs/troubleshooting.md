@@ -15,6 +15,7 @@ nav_order: 8
 |        | There is another app running on the same port number      | Make sure the port in `app.listen(port, () => {})` is at an available port, anything above 1024 to 65535, some sample port numbers to try are 8000, 3000, 8080.   |
 |         | file changes were not saved | Save and retry  |
 |         | Nodemon crashed | Type `rs` in the terminal to restart nodemon |
+|`npm init` does not create the package.json file | The terminal path is pointing to the wrong directory | Use the `cd` <folder> command in terminal to locate to the correct directory |
 
 </div>
 
