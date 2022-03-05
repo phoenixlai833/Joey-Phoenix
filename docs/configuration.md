@@ -1,11 +1,17 @@
 ---
 layout: default
-title: Task 1 | Installing Express.js
+title: Task 1 | Installing Express.js & EJS
 nav_order: 2
 ---
-# Installing Express.js
+# Installing Express.js & EJS
 ### Overview
-This first task of our user guide will walk you through the process of starting a new **Workspace** on VSCode and installing the Express.js library for your project.
+Your first task is to install the *Express.js* and *EJS* libraries for your project.
+
+
+In order to install *Express.js* and *EJS*, we first need to create a **Workspace** on VSCode.
+
+
+After setting up your Workspace, we need to initialize our project directory which will create a new file called *package.json*. We will be checking the *package.json* file later to make sure that we have successfully installed the *Express.js* and *EJS* libraries.
 
 
 💭 NOTE: If you already have a designated folder for this project set up on VSCode, you may skip to step 4.
@@ -41,10 +47,12 @@ The terminal should open up at the bottom of the application.
 **5.** Type `npm init` in the terminal and hit **[Enter]** to run the command
 
 
-You will see some prompts appear in the terminal. Hit **[Enter]** for each prompt. Once you see the prompt *`Is this OK? (yes)`*, hit **[Enter]** once more. You should see a new file listed in your project directory in the Workspace column called *package.json*.
+Some prompts will appear in the terminal. Hit **[Enter]** for each prompt to use the default settings. Once you see the prompt *`Is this OK? (yes)`*, hit **[Enter]** once more. You should see a new file listed in your project directory in the Workspace column called *package.json*.
 
 
+❗ **CAUTION** : Do not delete or alter the package.json file at this point!
 ![Screenshot of workspace after initialization](../assets/images/task-1-init.png)
+
 
 **6.** Type `npm install express` in the terminal and hit **[Enter]** to run the command
 
@@ -73,8 +81,6 @@ You can watch the installation process in the terminal. The installation has suc
 ---
 
 ### Conclusion
-You have successfully installed *EJS* and *Express.js*! That means the libraries are ready to be used in your project.
-
-❗ **CAUTION** : Do not delete or alter the package.json file!
+You have successfully installed *EJS* and *Express.js*! That means the libraries are ready to be used in your project and you are ready to move on to the next step.
 
 #### Congratulations! Continue to the next step and learn how to [Build the File Structure](step-2.md). 🚀 
