@@ -107,8 +107,7 @@ project/
 ❗ CAUTION: For the purpose of this project, this folder that you are creating in this step MUST be named public. Node.js will by default look for a file with this specific name.
 
 
-**7.** Create a file named *style.css* in the public folder.
-💭 NOTE: The css file can have any name, but style.css is the standard convention.
+**7.** Create a file named *styles.css* in the public folder.
 
 ```
 project/
@@ -119,7 +118,7 @@ project/
   |-- views/
     |-- index.ejs
   |-- public/
-    |-- style.css
+    |-- styles.css
 ```
 
 ---
