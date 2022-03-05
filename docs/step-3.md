@@ -102,8 +102,6 @@ That is the end of task three! You have successfully required *Express.js* in yo
 
 Remember the block of code that told *Express.js* to send 'Hello World!'? Try replacing "Hello World!" with your own message!
 
-💭 NOTE: Make sure to enclose your message in quotation marks! Either single or double quotation marks will work.
-
 
 For example:
 ```
@@ -111,6 +109,10 @@ app.get('/', (req, res) => {
   res.send('Your new message here')
 })
 ```
+
+
+💭 NOTE: Make sure to enclose your message in quotation marks! Either single or double quotation marks will work.
+
 
 
 #### 🥳 Amazing! Now you can move on to [Basic Routing Methods](step-4.md). 
