@@ -49,6 +49,8 @@ If the installation was successful, the prompt `*found 0 vulnerabilities*` will 
 a heading called `devDependencies`.
 
 **3.** Open the *package.json* file. Under `scripts`, add a comma after `"test": "echo \"Error: no test specified\" && exit 1"` then add `"dev": "nodemon server.js"` under it
+
+
 ❗ WARNING: Do not change anything else in the *package.json* file.
 
 
