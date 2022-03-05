@@ -22,6 +22,8 @@ In this task, we will be making the following files and directories:
 ### Express.js File Structure
 
 **1.** Create a new file named *index.js* in your project folder.
+
+
 💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
 
@@ -38,6 +40,8 @@ project/
 
 
 **2.** Create a new folder named *views* in your project folder.
+
+
 💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
 
@@ -56,6 +60,8 @@ project/
 
 
 **3.** Create a new file named *index.ejs* in your *views* folder.
+
+
 💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
 
@@ -90,6 +96,8 @@ In this case, we added a heading that reads "Hi World".
 
 
 **6.** Create a new folder named *public* in your project folder.
+
+
 💭 NOTE: Make sure you the file is located in your project folder as shown below.
 
 
