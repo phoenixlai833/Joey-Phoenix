@@ -6,8 +6,7 @@ nav_order: 3
 
 # Building File Structure
 ### Overview
-(intro here)
-Now that you have successfully installed Express.js and EJS, let's set up your project directory. In this step, you will create the folders and files in which you will build your project upon.
+Now that you have successfully installed *Express.js* and *EJS*, let's set up your project directory. In this step, you will create the folders and files in which you will build your project upon.
 
 In this task, we will be making the following files and directories:
 > - *index.js* file: acts as the central logic file that handles the server hosting logic.
@@ -16,7 +15,7 @@ In this task, we will be making the following files and directories:
 > - *public* folder: Holds all static files of the application such as CSS files and image assets.
 >> - *style.css* file: Contains styling that can be linked to EJS or HTML files.
 
-💭 NOTE: In order to create files and folders using VSCode, hover your cursor over the project directory and select the appropriate icon.
+💭 NOTE: To create files and folders using VSCode, hover your cursor over the project directory and select the appropriate icon.
 
 ---
 
@@ -127,7 +126,7 @@ project/
 
 ### Conclusion
 
-##### These are all the folders and files that should now exist in your project directory: 
+Here is a screenshot of all the folders and files that should now exist in your project directory. 
 
 
 ![Workspace popup message](../assets/images/task-2-total.png)

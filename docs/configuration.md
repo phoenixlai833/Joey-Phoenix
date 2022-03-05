@@ -5,8 +5,10 @@ nav_order: 2
 ---
 # Installing Express.js
 ### Overview
-(intro here)
-This step will walk you through the process of starting a new Workspace and installing the Express.js library for your project.
+This first task of our user guide will walk you through the process of starting a new Workspace on VSCode and installing the Express.js library for your project.
+
+
+💭 NOTE: If you already have a designated folder for this project set up on VSCode, you may skip to step 4.
 
 ---
 
@@ -43,13 +45,13 @@ You will see some prompts appear in the terminal. Hit **[Enter]** for each promp
 ![Screenshot of workspace after initialization](../assets/images/task-1-init.png)
 
 **6.** Type `npm install express` in the terminal and hit **[Enter]** to run the command
-You can watch the installation process in the terminal. The installation has succeeded when you see the prompt *`found 0 vulnerabilities`*. You may see some WARNING prompts. Do not worry about these.
+You can watch the installation process in the terminal. The installation has succeeded when you see the prompt *`found 0 vulnerabilities`*. You may see some WARNING prompts but don't worry about these.
 
 
 ![Screenshot of workspace after install express](../assets/images/task-1-install-express.png)
 
 **7.** Type `npm install ejs express` in the terminal and hit **[Enter]** to run the command
-You can watch the installation process in the terminal. The installation has succeeded when you see the prompt *`found 0 vulnerabilities`*. You may see some WARNING prompts. Do not worry about these.
+You can watch the installation process in the terminal. The installation has succeeded when you see the prompt *`found 0 vulnerabilities`*. You may see some WARNING prompts but don't worry about these.
 
 
 ![Screenshot of ejs command](../assets/images/task-1-install-ejs.png)
@@ -63,8 +65,8 @@ You can watch the installation process in the terminal. The installation has suc
 ---
 
 ### Conclusion
-(conclusion here)
+You have successfully installed *EJS* and *Express.js*! That means the libraries are ready to be used in your project.
 
 ❗ **CAUTION** : Do not delete or alter the package.json file!
 
-#### Congratulations! You have installed Express.js. Continue to the next step and learn how to [Build the File Structure](step-2.md). 🚀 
+#### Congratulations! Continue to the next step and learn how to [Build the File Structure](step-2.md). 🚀 
