@@ -101,7 +101,7 @@ nav_order: 7
 
 | Term | Definition |
 | ----------- | ----------- |
-| **Route** | Directs the HTTP request to the code that fulfills the request |
+| **Route** | Directs the HTTP request to the code that fulfills the request using methods |
 
 
 
@@ -120,6 +120,14 @@ nav_order: 7
 | Term | Definition |
 | ----------- | ----------- |
 | **Terminal** | Section of the VS Code interface that allows the user to run terminal commands |
+
+
+### W
+
+
+| Term | Definition |
+| ----------- | ----------- |
+| **Workspace** | The list of folders and files that are open and to be worked on in VSCode |
 
 
 <hr>
