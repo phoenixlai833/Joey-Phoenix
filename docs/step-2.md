@@ -13,7 +13,7 @@ In this task, we will be making the following files and directories:
 > - *views* folder: contain all the Embedded Javascript Templates(ejs) files. EJS files are **dynamic** HTML files that can handle JavaScript logic.
 >> - *index.ejs* file: A ejs file that uses logic from the *index.js* file to serve content.
 > - *public* folder: Holds all static files of the application such as CSS files and image assets.
->> - *style.css* file: Contains styling that can be linked to EJS or HTML files.
+>> - *styles.css* file: Contains styling that can be linked to EJS or HTML files.
 
 💭 NOTE: To create files and folders using VSCode, hover your cursor over the project directory and select the appropriate icon.
 
