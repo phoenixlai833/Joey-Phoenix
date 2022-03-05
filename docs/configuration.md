@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Installing Express.js
 ### Overview
-This first task of our user guide will walk you through the process of starting a new Workspace on VSCode and installing the Express.js library for your project.
+This first task of our user guide will walk you through the process of starting a new **Workspace** on VSCode and installing the Express.js library for your project.
 
 
 💭 NOTE: If you already have a designated folder for this project set up on VSCode, you may skip to step 4.
