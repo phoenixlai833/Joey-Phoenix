@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Express.js Basics
 description: A Jekyll theme for documentation
-baseurl: "/Joey-Phoenix" # the subpath of your site, e.g. /blog
+baseurl: "/express-documentation-joey-phoenix" # the subpath of your site, e.g. /blog
 url: "https://phoenixlai833.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
