@@ -14,7 +14,7 @@ Topics covered in this document are:
 
 ## Overview
 
-Express.js is one of the most popular Node.js back-end web application frameworks that was released as a free and open-source software. It provides many useful features to provide server-side logic for web and mobile applications in a simple and flexible way. We will go step by step and focus on the fundamentals of how to set up a basic server and routes. We hope it is easy to follow and useful for people to incorporate into their own applications. 
+Express.js is one of the most popular Node.js back-end web application frameworks that was released as a free and open-source software. It provides many useful features to provide server-side logic for web and mobile applications in a simple and flexible way. We will go step by step and focus on how to set up a basic server and routes. We hope it is easy to follow and useful for people to incorporate into their own applications. 
 
 
 #### Intended Users
