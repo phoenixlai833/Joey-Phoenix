@@ -1,72 +1,59 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+# Express.js Basics
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+Hello! The purpose of this document is to guide you on how to set up a [**Node.js**](https://nodejs.org/) web application using [**Express.js**](https://expressjs.com/) that works for both Mac and Windows machines. We will divide the fundamentals of how the software works into smaller building blocks that form the basic structure of complex projects.
 
-## Installation
+[**Read the docs**](https://phoenixlai833.github.io/express-documentation-joey-phoenix/)
 
-Add this line to your Jekyll site's Gemfile:
+Topics covered in this document are:
 
-```ruby
-gem "just-the-docs"
-```
+- How to install Express.js
+- How the file structure is organized
+- Display messages to the browser
+- Basic routing methods
+- How to use middleware to display static files
 
-And add this line to your Jekyll site's `_config.yml`:
+## Overview
 
-```yaml
-theme: just-the-docs
-```
+Express.js is one of the most popular Node.js back-end web application frameworks that was released as a free and open-source software. It provides many useful features to provide server-side logic for web and mobile applications in a simple and flexible way. We will go step by step and focus on the fundamentals of how to set up a basic server and routes. We hope it is easy to follow and useful for people to incorporate into their own applications. 
 
-And then execute:
 
-    $ bundle
+#### Intended Users
+Regardless of where you are in your development journey, this documentation will provide clear guidance on the basic concepts of Express.js. This guide will be particularly useful for:
+- Beginner developers that have basic front-end and back-end knowledge.
+- Development teams that want to save time on back-end set up.
 
-Or install it yourself as:
 
-    $ gem install just-the-docs
 
-Alternatively, you can run it inside Docker while developing your site
+#### Software Versions
+Please have the following installed before proceeding:
+- Node.js version 14.17.6 or later
+- Visual Studio Code
+- Npm Package manager version 6 or later
 
-    $ docker-compose up
 
-## Usage
+#### Prerequisites
+This document requires the following knowledge: 
+- Working knowledge of the Visual Studio Code terminal
+- Basic knowledge of Javascript(ES6), HTML, and CSS to create a static web page
+- Working knowledge of the Node.js package manager npm
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
 
-## Contributing
+#### Resources
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+This guide was written with experience from our COMP 2523 Object-Oriented Programming 1 class, as well as references from the official [Express documentation](https://expressjs.com/).
 
-### Submitting code changes:
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+## Conclusion
 
-### Design and development principles of this theme:
+This was the groups first time writing in markdown for our COMM 2116 Business Communications 2 class. We quickly learned the syntax and focused on being clear and concise in technical writing through this experience. We determined our own typographical conventions and style guide to implement throughout to visually unify and maximize readibilty on the web.
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+Writing this document allowed us to gain a new skill and solidify our own Express knowledge. We hope that this document is as helpful to you as it is to us. 
 
-## Development
+#### Happy developing! 🚀 
 
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
 ## License
+
+This document was built on: [just the docs](https://github.com/just-the-docs/just-the-docs)
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
